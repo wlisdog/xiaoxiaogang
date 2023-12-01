@@ -1,8 +1,6 @@
 <template>
 	<view class="content">
-		<view class="text-area">
-			<text class="title">{{title}}</text>
-		</view>
+		
 	</view>
 </template>
 
@@ -22,6 +20,7 @@
 	}
 </script>
 
-<style>
+<style lang="scss" scoped>
+	@import '~@/pages/index/index.scss';
 	
 </style>

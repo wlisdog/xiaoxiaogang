@@ -8,7 +8,7 @@
 .content {
     width: 750rpx;
     min-height: 100vh;
-    background: url('/static/user/login_bg.webp') no-repeat;
+    background: url('/static/images/user/login_bg.webp') no-repeat;
     background-size: 100%;
     image {
         width: 100%;
